@@ -1,0 +1,8 @@
+node_modules
+.next
+venv
+venv312
+__pycache__
+.env
+backend/cart_abandonment_model.pkl
+*.pyc

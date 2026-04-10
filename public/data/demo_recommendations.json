@@ -1,0 +1,162 @@
+{
+  "973": [
+    {
+      "product_id": 911,
+      "name": "Paperback Plum 768",
+      "category": "Books",
+      "times_carted_together": 10
+    },
+    {
+      "product_id": 974,
+      "name": "E-book LightCoral 987",
+      "category": "Books",
+      "times_carted_together": 7
+    },
+    {
+      "product_id": 623,
+      "name": "Water Bottle PapayaWhip 550",
+      "category": "Sports",
+      "times_carted_together": 7
+    },
+    {
+      "product_id": 958,
+      "name": "Hardcover LightGreen 573",
+      "category": "Books",
+      "times_carted_together": 7
+    },
+    {
+      "product_id": 926,
+      "name": "E-book Gray 372",
+      "category": "Books",
+      "times_carted_together": 7
+    }
+  ],
+  "670": [
+    {
+      "product_id": 288,
+      "name": "Coffee Maker Gainsboro 875",
+      "category": "Home & Kitchen",
+      "times_carted_together": 9
+    },
+    {
+      "product_id": 890,
+      "name": "Hardcover LightCyan 711",
+      "category": "Books",
+      "times_carted_together": 8
+    },
+    {
+      "product_id": 981,
+      "name": "Hardcover Blue 431",
+      "category": "Books",
+      "times_carted_together": 8
+    },
+    {
+      "product_id": 365,
+      "name": "Serum Salmon 968",
+      "category": "Beauty",
+      "times_carted_together": 8
+    },
+    {
+      "product_id": 1067,
+      "name": "Action Figure Tan 935",
+      "category": "Toys",
+      "times_carted_together": 7
+    }
+  ],
+  "377": [
+    {
+      "product_id": 885,
+      "name": "Paperback OldLace 758",
+      "category": "Books",
+      "times_carted_together": 9
+    },
+    {
+      "product_id": 991,
+      "name": "E-book DarkOrchid 197",
+      "category": "Books",
+      "times_carted_together": 9
+    },
+    {
+      "product_id": 678,
+      "name": "Cycling Helmet LightCyan 189",
+      "category": "Sports",
+      "times_carted_together": 8
+    },
+    {
+      "product_id": 358,
+      "name": "Serum Gray 736",
+      "category": "Beauty",
+      "times_carted_together": 8
+    },
+    {
+      "product_id": 368,
+      "name": "Lipstick OliveDrab 533",
+      "category": "Beauty",
+      "times_carted_together": 8
+    }
+  ],
+  "24": [
+    {
+      "product_id": 885,
+      "name": "Paperback OldLace 758",
+      "category": "Books",
+      "times_carted_together": 7
+    },
+    {
+      "product_id": 457,
+      "name": "Lipstick CadetBlue 751",
+      "category": "Beauty",
+      "times_carted_together": 7
+    },
+    {
+      "product_id": 1142,
+      "name": "Doll BlueViolet 214",
+      "category": "Toys",
+      "times_carted_together": 6
+    },
+    {
+      "product_id": 360,
+      "name": "Moisturizer MediumAquaMarine 749",
+      "category": "Beauty",
+      "times_carted_together": 6
+    },
+    {
+      "product_id": 958,
+      "name": "Hardcover LightGreen 573",
+      "category": "Books",
+      "times_carted_together": 6
+    }
+  ],
+  "772": [
+    {
+      "product_id": 636,
+      "name": "Tennis Racket LightSteelBlue 611",
+      "category": "Sports",
+      "times_carted_together": 7
+    },
+    {
+      "product_id": 751,
+      "name": "Hoodie Turquoise 128",
+      "category": "Fashion",
+      "times_carted_together": 6
+    },
+    {
+      "product_id": 1059,
+      "name": "Puzzle DodgerBlue 213",
+      "category": "Toys",
+      "times_carted_together": 6
+    },
+    {
+      "product_id": 223,
+      "name": "Cookware Khaki 557",
+      "category": "Home & Kitchen",
+      "times_carted_together": 6
+    },
+    {
+      "product_id": 805,
+      "name": "T-shirt Orchid 348",
+      "category": "Fashion",
+      "times_carted_together": 6
+    }
+  ]
+}
